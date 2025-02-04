@@ -12,8 +12,8 @@ const geistMono = localFont({
   variable: "--font-geist-mono",
 });
 
-let title = "Tweetbio – AI Twitter Bio Generator";
-let description = "Generate your next Twitter bio in seconds";
+let title = "LIB AI";
+let description = "Generate App Creatives in seconds";
 let url = "https://www.twitterbio.io/";
 let ogimage = "https://www.twitterbio.io/og-image.png";
 let sitename = "twitterbio.io";
